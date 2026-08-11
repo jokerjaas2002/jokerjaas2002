@@ -1,59 +1,81 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Joel+Andres+Acosta+Senteno;Lead+Developer+%7C+Computer+Engineering+Student;Building+scalable+systems+with+AI" alt="Typing SVG" />
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00D9FF,100:0a0a0a&height=180&section=header&text=Joel%20Andr%C3%A9s%20Acosta&fontSize=42&fontColor=00D9FF&fontAlignY=35&animation=fadeIn&desc=Lead%20Developer%20%E2%80%A2%20Computer%20Engineering%20Student%20%E2%80%A2%20AI%20Automation%20Architect&descSize=16&descColor=ffffff&descAlignY=55" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+enterprise+platforms+for+3%2C000%2B+users;Architecting+AI-driven+automation+systems;Full-Stack+%7C+Python+%7C+TypeScript+%7C+React;Currently+leveling+up+on+freeCodeCamp+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<p>
-  <em>Computer Engineering student (6th trimester) & Lead Full-Stack Developer building enterprise platforms that serve 3,000+ users across 27 companies.</em>
-</p>
-
 <!-- Social Badges -->
 <p>
-  <a href="mailto:joelacosta712@gmail.com"><img src="https://img.shields.io/badge/Email-joelacosta712@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/joel-andres-acosta-senteno-b16ab9327"><img src="https://img.shields.io/badge/LinkedIn-Joel+Acosta-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/jokerjaas2002"><img src="https://img.shields.io/badge/GitHub-jokerjaas2002-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:joelacosta712@gmail.com"><img src="https://img.shields.io/badge/Email-joelacosta712@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joel-andres-acosta-senteno-b16ab9327"><img src="https://img.shields.io/badge/LinkedIn-Joel+Acosta-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/jokerjaas2002"><img src="https://img.shields.io/badge/GitHub-jokerjaas2002-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- Location Badge -->
-<img src="https://img.shields.io/badge/📍_Caracas,_Venezuela-America%2FCaracas-00D9FF?style=flat-square" alt="Location" />
+<!-- Location & Status -->
+<p>
+  <img src="https://img.shields.io/badge/📍_Caracas,_Venezuela-America%2FCaracas-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_Computer_Engineering-6th_Trimester-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🗣️_Languages-Spanish_Native_%7C_English_B1-00D9FF?style=flat-square" />
+</p>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpdl/?username=jokerjaas2002&label=Profile%20Views&color=00D9FF&style=flat-square&labelColor=0a0a0a" alt="Profile Views" />
 
 </div>
 
 ---
 
-<!-- About Section -->
-## 🧠 About Me
+<!-- About Section with Code Block -->
+## 🧠 The Developer Behind the Code
 
 ```python
 class JoelAcosta:
+    """Lead Full-Stack Developer building enterprise systems with real impact."""
+
     def __init__(self):
         self.name = "Joel Andrés Acosta Senteno"
         self.age = 23
         self.role = "Lead Developer & Director of Development"
-        self.location = "Caracas, Venezuela"
-        self.education = "Computer Engineering (6th trimester)"
+        self.location = "Caracas, Venezuela 🇻🇪"
+        self.education = "Computer Engineering — 6th trimester"
         self.languages_spoken = ["Spanish (Native)", "English (B1)"]
-        
+        self.mindset = "Builder. I don't wait for instructions — I find the problem and solve it."
+
     def current_stack(self):
         return {
-            "languages": ["Python", "JavaScript", "TypeScript", "PHP", "SQL"],
-            "backend": ["Node.js", "Express", "Supabase", "PostgreSQL", "MySQL"],
-            "frontend": ["React", "TypeScript", "HTML/CSS"],
+            "languages": ["Python", "JavaScript", "TypeScript", "PHP", "SQL", "Bash"],
+            "backend": ["Node.js", "Supabase", "PostgreSQL", "MySQL", "Express"],
+            "frontend": ["React", "TypeScript", "HTML/CSS", "Tailwind"],
             "ai_automation": ["Claude", "ChatGPT", "Gemini", "n8n", "AI Agents"],
             "devops": ["Docker", "Linux", "Git", "GitHub Actions"],
             "platforms": ["Base44", "Shopify", "Vercel"],
             "currently_learning": "freeCodeCamp → JavaScript Algorithms & Data Structures"
         }
-    
+
+    def track_record(self):
+        return {
+            "users_served": "3,000+ across 27 companies",
+            "performance_improvement": "77% post-refactor",
+            "ai_automation_roi": "3.2x peak",
+            "checkout_volume": "49% of daily transactions",
+            "sales_growth": "32% in local market"
+        }
+
     def ask_me_about(self):
         return [
             "AI-driven automation & workflow optimization",
             "Enterprise SaaS architecture & RBAC",
             "Payment integrations & e-commerce checkout",
-            "System refactoring & performance optimization"
+            "System refactoring & performance optimization",
+            "Building dev teams and technical leadership"
         ]
+
+    def currently_building(self):
+        return "🎯 Path to launching my own SaaS product in 2026"
 ```
 
 ---
@@ -61,75 +83,139 @@ class JoelAcosta:
 <!-- Tech Stack Grid -->
 ## ⚙️ Tech Arsenal
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="25%">
-      <h3>💻 Languages</h3>
+    <td align="center" width="20%"><b>💻 Languages</b></td>
+    <td align="center" width="20%"><b>🚀 Backend & DB</b></td>
+    <td align="center" width="20%"><b>🎨 Frontend</b></td>
+    <td align="center" width="20%"><b>🤖 AI & Automation</b></td>
+    <td align="center" width="20%"><b>🐳 DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
     </td>
-    <td align="center" width="25%">
-      <h3>🚀 Backend & DB</h3>
+    <td align="center">
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
     </td>
-    <td align="center" width="25%">
-      <h3>🎨 Frontend</h3>
+    <td align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
-    <td align="center" width="25%">
-      <h3>🤖 AI & Automation</h3>
+    <td align="center">
       <img src="https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=anthropic&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AI_Agents-00D9FF?style=flat-square&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🐳 DevOps</h3>
+    <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-    </td>
-    <td align="center" width="25%">
-      <h3>🛒 E-Commerce</h3>
-      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Kommo-FF6B00?style=flat-square&logo=kommo&logoColor=white" /><br/>
-    </td>
-    <td align="center" width="25%">
-      <h3>🎨 Design</h3>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /><br/>
-    </td>
-    <td align="center" width="25%">
-      <h3>📚 Learning</h3>
-      <img src="https://img.shields.io/badge/freeCodeCamp-0A0A0A?style=flat-square&logo=freecodecamp&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Algorithms-00D9FF?style=flat-square&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Base44-00D9FF?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Section -->
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=jokerjaas2002&show_icons=true&theme=dark&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0a0a0a&border_color=00D9FF&hide_border=false" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokerjaas2002&layout=compact&theme=dark&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0a0a0a&border_color=00D9FF" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=jokerjaas2002&show_icons=true&theme=dark&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0a0a0a&border_color=00D9FF&hide_border=false&count_private=true" width="47%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokerjaas2002&layout=compact&theme=dark&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0a0a0a&border_color=00D9FF&hide_border=false" width="47%" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jokerjaas2002&theme=dark&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&bg_color=0a0a0a&border_color=00D9FF" width="70%" alt="GitHub Streak" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jokerjaas2002&theme=dark&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&maxStreakNum=ffffff&maxStreakLabel=ffffff&bg_color=0a0a0a&border_color=00D9FF" width="47%" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jokerjaas2002&theme=dark&bg_color=0a0a0a&color=00D9FF&line=00D9FF&point=ffffff&hide_border=false&area=true" width="47%" alt="Activity Graph" />
+
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=jokerjaas2002&theme=darkhub&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" alt="GitHub Trophies" />
 
 </div>
+
+---
+
+<!-- Track Record -->
+## 🔥 By the Numbers
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>3,000+</b></td>
+    <td align="center"><b>27</b></td>
+    <td align="center"><b>77%</b></td>
+    <td align="center"><b>3.2x</b></td>
+    <td align="center"><b>49%</b></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Users served</sub></td>
+    <td align="center"><sub>Companies</sub></td>
+    <td align="center"><sub>Performance gain</sub></td>
+    <td align="center"><sub>AI ROI peak</sub></td>
+    <td align="center"><sub>Checkout volume</sub></td>
+  </tr>
+</table>
+</div>
+
+---
+
+<!-- What I Build -->
+## 🏗️ What I Build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏢 Enterprise Platforms</h3>
+      <p>HR systems serving 3,000+ users across 27 companies with RBAC, matrix pricing, and document engagement heatmaps. Refactored for 77% performance improvement.</p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Automation Suites</h3>
+      <p>AI Agents that optimize operational workflows and reduce overhead. ROI scaled from 1.0x to 3.2x peak by replacing manual processes with intelligent automation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💳 Payment Integrations</h3>
+      <p>API-based checkout systems bridging local banks with e-commerce platforms. Handling 49% of daily transactions with 32% sales growth in local market.</p>
+    </td>
+    <td width="50%">
+      <h3>⚽ Sports Tech</h3>
+      <p>Real-time prediction apps with live API data mapped to Supabase. Scaled to 600+ active users during the World Cup with automated scoring and leaderboards.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Game Development</h3>
+      <p>MMORPG backend logic with adaptive AI systems and stat scaling by age in Unity. Co-designed core mechanics for an independent game project.</p>
+    </td>
+    <td width="50%">
+      <h3>🔧 Dev Tools & Scripts</h3>
+      <p>Web scrapers, virtual assistants, financial trackers, and automation scripts in Python. Built tools that solve real problems, not just tutorials.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -137,22 +223,56 @@ class JoelAcosta:
 ## 🎯 Current Mission
 
 ```
-🎯 Refrescando JavaScript con freeCodeCamp → JavaScript Algorithms & Data Structures
+📚 Refrescando JavaScript con freeCodeCamp → JavaScript Algorithms & Data Structures
 🤖 Explorando arquitecturas SaaS con AI Agents como motor principal
-📚 Próximo: Back-End Development and APIs (freeCodeCamp)
 🚀 Objetivo 2026: Lanzar mi propio SaaS
+📈 Próximo: Back-End Development and APIs (freeCodeCamp)
+🤝 Mentorando a mi futuro socio técnico, Rodrigo Castro
 ```
 
 ---
 
-<!-- Featured Projects -->
-## 🔥 What I Build
+<!-- Learning Path -->
+## 🛤️ Learning Journey
 
-- **Enterprise HR Platforms** — Systems serving 3,000+ users across 27 companies with RBAC, matrix pricing, and document heatmaps
-- **AI Automation Suites** — AI Agents that optimize workflows and reduce operational overhead
-- **Payment Integrations** — API-based checkout systems integrating local banks with e-commerce platforms
-- **Sports Prediction Apps** — Real-time tournament apps with live API data mapped to Supabase
-- **Game Development** — MMORPG backend logic with adaptive AI systems in Unity
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>✅ Completed</b></td>
+    <td align="center"><b>🔥 In Progress</b></td>
+    <td align="center"><b>📅 Next Up</b></td>
+    <td align="center"><b>🚀 Future</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      Responsive Web Design<br/>
+      <sub>freeCodeCamp (Nov 2024)</sub><br/><br/>
+      Full Stack Diploma<br/>
+      <sub>Uneweb 240hrs (Oct 2024)</sub><br/><br/>
+      Automation Bootcamp<br/>
+      <sub>Professional (2026)</sub>
+    </td>
+    <td align="center">
+      JavaScript Algorithms<br/>
+      <sub>freeCodeCamp</sub><br/><br/>
+      & Data Structures
+    </td>
+    <td align="center">
+      Back-End Dev & APIs<br/>
+      <sub>freeCodeCamp</sub><br/><br/>
+      Quality Assurance<br/>
+      <sub>freeCodeCamp</sub><br/><br/>
+      Next.js + CI/CD
+    </td>
+    <td align="center">
+      Stripe & Payments<br/>
+      <sub>International SaaS</sub><br/><br/>
+      SaaS Launch<br/>
+      <sub>2026 Goal</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -161,15 +281,17 @@ class JoelAcosta:
 
 ## 📫 Let's Connect
 
-<a href="mailto:joelacosta712@gmail.com"><img src="https://img.shields.io/badge/Email-joelacosta712@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/joel-andres-acosta-senteno-b16ab9327"><img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="mailto:joelacosta712@gmail.com"><img src="https://img.shields.io/badge/Email-joelacosta712@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joel-andres-acosta-senteno-b16ab9327"><img src="https://img.shields.io/badge/LinkedIn-Let's+Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/jokerjaas2002"><img src="https://img.shields.io/badge/GitHub-Follow+Me-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpdl/?username=jokerjaas2002&color=00D9FF&style=flat-square" alt="Profile Views" />
-
----
+<br/>
 
 <em>Building the future, one commit at a time. 🚀</em>
 
 </div>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00D9FF,100:0a0a0a&height=120&section=footer" />
