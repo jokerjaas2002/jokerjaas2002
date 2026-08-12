@@ -1,18 +1,22 @@
 <div align="center">
 
+<!-- Pixel Art Avatar -->
+<img src="avatar.png" width="120" height="120" alt="Joel Andrés" style="border-radius: 8px; image-rendering: pixelated;" />
+
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00D9FF,100:0a0a0a&height=180&section=header&text=Joel%20Andr%C3%A9s%20Acosta&fontSize=42&fontColor=00D9FF&fontAlignY=35&animation=fadeIn&desc=Lead%20Developer%20%E2%80%A2%20Computer%20Engineering%20Student%20%E2%80%A2%20AI%20Automation%20Architect&descSize=16&descColor=ffffff&descAlignY=55" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+enterprise+platforms+for+3%2C000%2B+users;Architecting+AI-driven+automation+systems;Full-Stack+%7C+Python+%7C+TypeScript+%7C+React;Currently+leveling+up+on+freeCodeCamp+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+enterprise+platforms+at+scale;Architecting+AI-driven+automation+systems;Full-Stack+%7C+Python+%7C+TypeScript+%7C+React;Currently+leveling+up+on+freeCodeCamp+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
 <p>
-  <a href="mailto:joelacosta712@gmail.com"><img src="https://img.shields.io/badge/Email-joelacosta712@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://joel-tech.base44.app"><img src="https://img.shields.io/badge/Portfolio-joel--tech.base44.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.instagram.com/joe07_24"><img src="https://img.shields.io/badge/Instagram-@joe07_24-00D9FF?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/joel-andres-acosta-senteno-b16ab9327"><img src="https://img.shields.io/badge/LinkedIn-Joel+Acosta-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/jokerjaas2002"><img src="https://img.shields.io/badge/GitHub-jokerjaas2002-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:joelacosta712@gmail.com"><img src="https://img.shields.io/badge/Email-joelacosta712@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Location & Status -->
@@ -20,6 +24,7 @@
   <img src="https://img.shields.io/badge/📍_Caracas,_Venezuela-America%2FCaracas-00D9FF?style=flat-square" />
   <img src="https://img.shields.io/badge/🎓_Computer_Engineering-6th_Trimester-00D9FF?style=flat-square" />
   <img src="https://img.shields.io/badge/🗣️_Languages-Spanish_Native_%7C_English_B1-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔥_Status-Available_for_projects-00D9FF?style=flat-square" />
 </p>
 
 <!-- Profile Views -->
@@ -58,17 +63,17 @@ class JoelAcosta:
 
     def track_record(self):
         return {
-            "users_served": "3,000+ across 27 companies",
-            "performance_improvement": "77% post-refactor",
-            "ai_automation_roi": "3.2x peak",
-            "checkout_volume": "49% of daily transactions",
-            "sales_growth": "32% in local market"
+            "scale": "Enterprise platforms serving thousands of users",
+            "impact": "Significant performance gains through refactoring",
+            "automation": "AI-driven workflows that replace manual processes",
+            "fintech": "Family finance platform with voice-to-text AI (CARD-CAO)",
+            "growth": "From student to technical leader in under 2 years"
         }
 
     def ask_me_about(self):
         return [
             "AI-driven automation & workflow optimization",
-            "Enterprise SaaS architecture & RBAC",
+            "Enterprise SaaS architecture & system design",
             "Payment integrations & e-commerce checkout",
             "System refactoring & performance optimization",
             "Building dev teams and technical leadership"
@@ -157,24 +162,24 @@ class JoelAcosta:
 
 ---
 
-<!-- Track Record -->
-## 🔥 By the Numbers
+<!-- Highlighted Projects -->
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
   <tr>
-    <td align="center"><b>3,000+</b></td>
-    <td align="center"><b>27</b></td>
-    <td align="center"><b>77%</b></td>
-    <td align="center"><b>3.2x</b></td>
-    <td align="center"><b>49%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Users served</sub></td>
-    <td align="center"><sub>Companies</sub></td>
-    <td align="center"><sub>Performance gain</sub></td>
-    <td align="center"><sub>AI ROI peak</sub></td>
-    <td align="center"><sub>Checkout volume</sub></td>
+    <td width="50%" align="center">
+      <h3>💳 CARD-CAO</h3>
+      <p><b>FINTECH & AI · 2026</b></p>
+      <p>Family finance platform with AI-powered voice-to-text expense logging. Adaptive UI for all ages — from simplified mode for seniors to advanced analytics dashboards. Multi-currency (VES/USD/EUR), budgets, goals, and wealth tracking.</p>
+      <p><a href="https://card-cao.base44.app">🔗 card-cao.base44.app</a></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📱 Marca Personal @joe07_24</h3>
+      <p><b>SOCIAL & TECH · 2026</b></p>
+      <p>Personal branding strategy as a young tech leader. 10 content pillars, automated publishing pipeline, cyan-neon-on-black visual identity. Instagram + LinkedIn + GitHub ecosystem.</p>
+      <p><a href="https://instagram.com/joe07_24">🔗 @joe07_24</a></p>
+    </td>
   </tr>
 </table>
 </div>
@@ -188,27 +193,27 @@ class JoelAcosta:
   <tr>
     <td width="50%">
       <h3>🏢 Enterprise Platforms</h3>
-      <p>HR systems serving 3,000+ users across 27 companies with RBAC, matrix pricing, and document engagement heatmaps. Refactored for 77% performance improvement.</p>
+      <p>Scalable systems with role-based access control, matrix pricing, and document engagement analytics. Refactored for significant performance improvements and cleaner architecture.</p>
     </td>
     <td width="50%">
       <h3>🤖 AI Automation Suites</h3>
-      <p>AI Agents that optimize operational workflows and reduce overhead. ROI scaled from 1.0x to 3.2x peak by replacing manual processes with intelligent automation.</p>
+      <p>AI Agents that optimize operational workflows and reduce manual overhead. Replacing repetitive processes with intelligent automation that scales.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>💳 Payment Integrations</h3>
-      <p>API-based checkout systems bridging local banks with e-commerce platforms. Handling 49% of daily transactions with 32% sales growth in local market.</p>
-    </td>
     <td width="50%">
       <h3>⚽ Sports Tech</h3>
       <p>Real-time prediction apps with live API data mapped to Supabase. Scaled to 600+ active users during the World Cup with automated scoring and leaderboards.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🎮 Game Development</h3>
       <p>MMORPG backend logic with adaptive AI systems and stat scaling by age in Unity. Co-designed core mechanics for an independent game project.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💳 Payment Systems</h3>
+      <p>API-based checkout systems bridging local banks with e-commerce platforms. Native currency processing and automated order management.</p>
     </td>
     <td width="50%">
       <h3>🔧 Dev Tools & Scripts</h3>
@@ -282,9 +287,10 @@ class JoelAcosta:
 ## 📫 Let's Connect
 
 <p>
-  <a href="mailto:joelacosta712@gmail.com"><img src="https://img.shields.io/badge/Email-joelacosta712@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://joel-tech.base44.app"><img src="https://img.shields.io/badge/Portfolio-joel--tech.base44.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.instagram.com/joe07_24"><img src="https://img.shields.io/badge/Instagram-@joe07_24-00D9FF?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/joel-andres-acosta-senteno-b16ab9327"><img src="https://img.shields.io/badge/LinkedIn-Let's+Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/jokerjaas2002"><img src="https://img.shields.io/badge/GitHub-Follow+Me-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:joelacosta712@gmail.com"><img src="https://img.shields.io/badge/Email-Contact+Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br/>
